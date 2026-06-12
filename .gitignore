@@ -1,0 +1,17 @@
+# Ignore virtual environment
+/April/
+
+# Ignore cache directories
+/.cache/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore system/special files
+.lgd-nfy0
+.DS_Store
+
+# Ignore other common IDE/editor files
+.vscode/
+.idea/
+*.save
