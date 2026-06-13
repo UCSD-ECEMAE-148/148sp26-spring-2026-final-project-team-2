@@ -7,7 +7,7 @@ An autonomous servo-controlled turret mounted on an RC car chassis that detects 
 ---
 
 ## 📽️ Demo Video
-> ECE 148 final project.mp4
+[![Watch the Demo](https://img.youtube.com/vi/diLbjjhN33Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=diLbjjhN33Y)
 
 ---
 
@@ -138,7 +138,10 @@ Key parameters you can tune at the top of `joemama.py`:
 ---
 
 ## 📸 Photos
-> test
+![Robot photo 1](photos_and_videos/20260510_160904.jpg)
+![Robot photo 2](photos_and_videos/20260518_142408.jpg)
+![Robot photo 3](photos_and_videos/20260518_143041.jpg)
+![Robot photo 4](photos_and_videos/IMG_20260513_141125.jpg)
 
 ---
 
