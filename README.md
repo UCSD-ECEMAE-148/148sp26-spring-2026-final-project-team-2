@@ -7,15 +7,15 @@ An autonomous servo-controlled turret mounted on an RC car chassis that detects 
 ---
 
 ## 📽️ Demo Video
-> _Coming soon_
+> ECE 148 final project.mp4
 
 ---
 
 ## 👥 Team Members
 - Christopher Cardella
-- _(Add teammate names here)_
-- _(Add teammate names here)_
-- _(Add teammate names here)_
+- Jasper Ha
+- John Beers
+- Ajna Salihovic
 
 ---
 
@@ -138,7 +138,7 @@ Key parameters you can tune at the top of `joemama.py`:
 ---
 
 ## 📸 Photos
-> _Add photos of your robot here_
+> test
 
 ---
 
