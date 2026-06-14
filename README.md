@@ -9,6 +9,8 @@ An autonomous servo-controlled turret mounted on an RC car chassis that detects 
 ## 📽️ Demo Video
 [![Watch the Demo](https://img.youtube.com/vi/diLbjjhN33Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=diLbjjhN33Y)
 
+https://github.com/UCSD-ECEMAE-148/148sp26-spring-2026-final-project-team-2/raw/main/photos_and_videos/IMG_8658.MOV
+
 ---
 
 ## 👥 Team Members
@@ -137,11 +139,18 @@ Key parameters you can tune at the top of `joemama.py`:
 
 ---
 
+## 🖥️ CAD Design
+
+![CAD Design 1](photos_and_videos/Screenshot%202026-06-12%20005740.png)
+![CAD Design 2](photos_and_videos/Screenshot%202026-05-19%20000314.png)
+![CAD Design 3](photos_and_videos/Screenshot%202026-05-18%20235951.png)
+
+---
+
 ## 📸 Photos
-![Robot photo 1](photos_and_videos/20260510_160904.jpg)
-![Robot photo 2](photos_and_videos/20260518_142408.jpg)
-![Robot photo 3](photos_and_videos/20260518_143041.jpg)
-![Robot photo 4](photos_and_videos/IMG_20260513_141125.jpg)
+![Robot photo 1](photos_and_videos/IMG_20260513_141125.jpg)
+![Robot photo 2](IMG_8660.JPG)
+![Robot photo 3](photos_and_videos/IMG_20260513_141125.jpg)
 
 ---
 
