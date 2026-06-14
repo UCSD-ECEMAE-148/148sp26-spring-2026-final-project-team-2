@@ -148,8 +148,8 @@ Key parameters you can tune at the top of `joemama.py`:
 ---
 
 ## 📸 Photos
-![Robot photo 1](photos_and_videos/IMG_20260513_141125.jpg)
-![Robot photo 2](IMG_8660.JPG)
+![Robot photo 1](photos_and_videos/Screenshot 2026-06-13 181426.png)
+![Robot photo 2](photos_and_videos/IMG_8660.JPG)
 ![Robot photo 3](photos_and_videos/IMG_20260513_141125.jpg)
 
 ---
